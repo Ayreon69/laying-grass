@@ -2,7 +2,7 @@
 
 **Plante tes plaques, arrache celles des autres, fais pousser le plus grand carré.**
 
-👉 **Jouer : adresse à venir** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
+👉 **Jouer : https://laying-grass.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu de placement multijoueur en ligne, à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 D'après *Laying Grass*, l'épreuve de *The Devil's Plan* (saison 1, Netflix). Création de fans, non officielle, avec ses propres visuels.
