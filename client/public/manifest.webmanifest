@@ -1,0 +1,11 @@
+{
+  "name": "Laying Grass",
+  "short_name": "Laying Grass",
+  "description": "Plante des plaques de gazon, arrache celles des autres et fais pousser le plus grand carré.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a120c",
+  "theme_color": "#1a120c",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
